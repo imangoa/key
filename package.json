@@ -2,7 +2,13 @@
   "name": "nodejs",
   "version": "1.0.0",
   "dependencies": {
+<<<<<<< HEAD
   我在master改变它
  
     }
+=======
+    
+  }
+  我在dev 分支下修改你
+>>>>>>> dev
 }
